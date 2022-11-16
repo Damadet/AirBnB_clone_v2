@@ -1,15 +1,3 @@
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
 #!/usr/bin/python3
 """db storage module"""
 
